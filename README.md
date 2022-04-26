@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Ana (she/her) 🚀
 
-<!--
-**anaURL/anaURL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack software engineer that is passionate about bridging the gaps of disparities within marginalized communities. Through tech, I want to build applications and work alongside people that focus on making an impactful difference.
 
-Here are some ideas to get you started:
+## Current Skill Set
+HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB | MySql | GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### At The Moment I'm..
+- addicted to codewars 🚀
+- practicing data structures and algorithms 💻
+- reading and youtubin' lots of topics 📚
+
+## If you want to reach me, just click these links:
+
+- Portfolio: www.anaurlic.netlify.app/
+- Twitter: www.twitter.com/ana_esplanada
+

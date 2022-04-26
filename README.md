@@ -12,6 +12,6 @@ HTML5 | CSS3 | JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB
 
 ## If you want to reach me, just click these links:
 
-- Portfolio: www.anaurlic.netlify.app/
+- Portfolio: https://anaurlic.netlify.app
 - Twitter: www.twitter.com/ana_esplanada
 

@@ -7,7 +7,7 @@ HTML5 | CSS3 | JavaScript ES6+ | React | Node.js | Express.js | MongoDB | MySql 
 
 ### At The Moment I'm..
 - addicted to codewars 🚀
-- practicing data structures and algorithms 💻
+- learning CRUD apps with MongoDB, Express, and node.js 💻
 - reading and youtubin' lots of topics 📚
 
 ## If you want to reach me, just click these links:

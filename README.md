@@ -1,4 +1,4 @@
-# Hi there, I'm Ana (she/her) 🚀
+# Hi there, I'm Ana (she/they) 🚀
 
 I am a full-stack software developer that is passionate about bridging the gaps of disparities within marginalized communities. Through tech, I want to build applications and work alongside people that focus on making an impactful difference.
 

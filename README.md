@@ -6,6 +6,7 @@ I am a full-stack software developer passionate about bridging the gaps of dispa
 HTML5 | CSS3 | JavaScript ES6+ | React | Node.js | Express.js | MongoDB | Next.js
 
 ### At The Moment I'm..
+- working on super fun and useful projects like [With Rainbow Colors to Mental Health](https://github.com/anaURL/uz-dugine-boje-do-mentalnog-zdravlja) 🏳️‍🌈🏳️‍⚧️
 - learning Data Structures and Algorithms
 - exploring accessibility
 - reading and youtubin' lots of topics 📚
